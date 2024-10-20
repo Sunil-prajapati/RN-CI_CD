@@ -73,4 +73,5 @@ extra
    npx husky-init
    then npm i 
    nest step is to pre-commit file and add commands which you want to run
-
+    when got husky error 
+    npm run prepare
