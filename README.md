@@ -64,4 +64,13 @@ Github flow & Best Practices (Questions)
 	SCRUM:  We have match the timeline in case of scrum and if we completed the before 	time time we can rest if not then do the work by extend our working hours
    KANBAN:  We can pick the task acc. To architect of app , and all tasks has been assigned in the first go
 
+extra 
+   when we update app name the also update the folder name in android folder
+
+   ====== STEPS TO IMPLEMENT CI/CD ===================
+   Collaborators: for sending the invite to teams
+   Rules: to protect the main branch 
+   npx husky-init
+   then npm i 
+   nest step is to pre-commit file and add commands which you want to run
 
