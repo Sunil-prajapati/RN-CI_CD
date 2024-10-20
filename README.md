@@ -74,4 +74,32 @@ extra
    then npm i 
    nest step is to pre-commit file and add commands which you want to run
     when got husky error 
-    npm run prepare
+   . "$(dirname "$0")/_/husky.sh" check this
+   create .github folder to perfrom actions
+   google cloud
+    create new project
+    select the project
+    IAM & Admin
+        Service account
+        cicd-983@learningcicd.iam.gserviceaccount.com
+        Action:
+            manage keys 
+                create new key
+                json will be get downloaded
+                cicd-983@learningcicd.iam.gserviceaccount.com
+                =====
+                then go to google console 
+                    user and permisson
+                paste that console file into android foler (should be store secreat and then same generate for fastlane)
+   google console
+    create a new app
+    App integgrity
+    after uploading the build now we can write script for CI/CD
+
+
+=======WINDOWS SYSTEM======
+    RUBY INSTALL
+    INSTALL FASTLANE
+    sudo gem install fastlane/ brew install fastlane
+    integration webhooks to slack/discard/ and any other 
+    then changes in fastlane file to write the commands
